@@ -1,0 +1,6 @@
+Example
+=======
+
+.. toctree::
+
+   test.ipynb
